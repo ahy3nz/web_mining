@@ -1,0 +1,100 @@
+Predicting the thermodynamic properties of experimental mixed-solvent electrolyte systems using the SAFT-VR+ DE equation of state
+G Das, MC dos Ramos, C McCabe
+Fluid Phase Equilibria 460, 105-118
+2018
+********************
+Effect of Ceramide Tail Length on the Structure of Model Stratum Corneum Lipid Bilayers
+TC Moore, R Hartkamp, CR Iacovella, AL Bunge, C McCabe
+Biophysical journal 114 (1), 113-125
+2018
+********************
+Investigating Alkylsilane Monolayer Tribology at a Single-Asperity Contact with Molecular Dynamics Simulation
+AZ Summers, CR Iacovella, PT Cummings, C McCabe
+Langmuir 33 (42), 11270-11280
+2017
+********************
+The Influence of Ceramide Tail Length on the Structure of Bilayers Composed of Stratum Corneum Lipids
+TC Moore, R Hartkamp, CR Iacovella, AL Bunge, C McCabe
+arXiv preprint arXiv:1710.06914
+2017
+********************
+Molecular dynamics simulations of stratum corneum lipid mixtures: A multiscale perspective
+TC Moore, CR Iacovella, AC Leonhard, AL Bunge, C McCabe
+Biochemical and biophysical research communications
+2017
+********************
+Modeling the thermodynamic properties and phase behaviour of organic sulfur molecules with a group contribution based statistical associating fluid theory approac...
+JD Haley, C McCabe
+Fluid Phase Equilibria 446, 46-54
+2017
+********************
+Perfluoropolyethers: Development of an All-Atom Force Field for Molecular Simulations and Validation with New Experimental Vapor Pressures and Liquid Densities
+JE Black, GMC Silva, C Klein, CR Iacovella, P Morgado, LFG Martins, ...
+The Journal of Physical Chemistry B 121 (27), 6588-6600
+2017
+********************
+Predicting the phase behavior of fluorinated organic molecules using the GC-SAFT-VR equation of state
+JD Haley, C McCabe
+Fluid Phase Equilibria 440, 111-121
+2017
+********************
+John P O'Connell Festschrift in Fluid Phase Equilibria
+R Gani, G Kontogeorgis, C McCabe
+Fluid Phase Equilibria 443, III-III
+2017
+********************
+Structural Properties of Phospholipid-based Bilayers with Long-Chain Alcohol Molecules in the Gel Phase
+R Hartkamp, TC Moore, CR Iacovella, MA Thompson, PA Bulsara, ...
+The Journal of Physical Chemistry B 120 (50), 12863-12871
+2016
+********************
+Vapor pressure and liquid density of fluorinated alcohols: Experimental, simulation and GC-SAFT-VR predictions
+GMC Silva, P Morgado, JD Haley, VMT Montoya, C McCabe, LFG Martins, ...
+Fluid Phase Equilibria 425, 297-304
+2016
+********************
+A Coarse-Grained Model of Stratum Corneum Lipids: Free Fatty Acids and Ceramide NS
+TC Moore, CR Iacovella, R Hartkamp, AL Bunge, C McCabe
+The Journal of Physical Chemistry B 120 (37), 9944-9958
+2016
+********************
+Investigating the structure of multicomponent gel-Phase lipid bilayers
+R Hartkamp, TC Moore, CR Iacovella, MA Thompson, PA Bulsara, ...
+Biophysical journal 111 (4), 813-823
+2016
+********************
+A SAFT-VR+ DE equation of state based approach for the study of mixed dipolar solvent electrolytes
+G Das, S Hlushak, C McCabe
+Fluid Phase Equilibria 416, 72-82
+2016
+********************
+Predicting the phase behavior of fatty acid methyl esters and their mixtures using the GC-SAFT-VR approach
+JD Haley, C McCabe
+Fluid Phase Equilibria 411, 43-52
+2016
+********************
+Influence of Surface Morphology on the Shear-Induced Wear of Alkylsilane Monolayers: Molecular Dynamics Study
+AZ Summers, CR Iacovella, MR Billingsley, ST Arnold, PT Cummings, ...
+Langmuir 32 (10), 2348-2359
+2016
+********************
+A Hierarchical, Component Based Approach to Screening Properties of Soft Matter
+C Klein, J Sallai, TJ Jones, CR Iacovella, C McCabe, PT Cummings
+Foundations of Molecular Modeling and Simulation, 79-92
+2016
+********************
+Call for papers-Special Issue Honoring Theo de Loos
+CJ Peters, JP O'Connell, C MCabe
+Fluid Phase Equilibria, A1
+2016
+********************
+Aqueous solutions: Bulk fluids and interfaces
+JI Siepmann, C McCabe
+Fluid Phase Equilibria, 1
+2016
+********************
+Development of a coarse-grained water forcefield via multistate iterative Boltzmann inversion
+TC Moore, CR Iacovella, C McCabe
+Foundations of Molecular Modeling and Simulation, 37-52
+2016
+********************
