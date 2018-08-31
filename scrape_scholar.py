@@ -3,6 +3,7 @@ import urllib.request
 import re
 import urllib.parse
 from bs4 import BeautifulSoup
+import datetime
 
 #url = "https://coinmarketcap.com"
 #url = "https://scholar.google.com/citations?user=ikdrOCMAAAAJ&hl=en"
@@ -15,7 +16,8 @@ resp = urllib.request.urlopen(req)
 
 soup = BeautifulSoup(resp, 'lxml')
 stuff = soup.find_all('td', attrs={'class':'gsc_a_t'})
-with open("bib.txt", 'w') as f:
+with open("bib.txt", 'a') as f:
+    f.write('========Updated {}=====\n'.format(datetime.datetime.now()))
     for line in stuff:
         items = [thing for thing in line.strings]
         title = items[0]
@@ -25,5 +27,6 @@ with open("bib.txt", 'w') as f:
         f.write("{}\n{}\n{}\n{}\n".format(title, authors, publication_info, year))
         f.write("*"*20)
         f.write("\n")
+    f.write('========End {}=======\n'.format(datetime.datetime.now()))
 
 
